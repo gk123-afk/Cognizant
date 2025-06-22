@@ -1,2 +1,0 @@
-# Cognizant
-.net fse program
