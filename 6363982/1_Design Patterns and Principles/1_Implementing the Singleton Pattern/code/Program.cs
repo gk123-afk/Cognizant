@@ -37,5 +37,6 @@ public class Test
         {
             Console.WriteLine("Same instance: False");
         }
+        Console.ReadLine();
     }
 }
